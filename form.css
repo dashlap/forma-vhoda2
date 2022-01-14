@@ -1,0 +1,31 @@
+html body {
+    
+    background-color: rgb(216, 133, 25);
+    
+}
+
+.knopki input {
+    height: 50px;
+    width: 200px;
+}
+
+.ssilka a {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.stroki input {
+    height: 50px;
+    width: 396px;
+    
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    padding-top: 160px;
+    padding-left: 220px;
+}
